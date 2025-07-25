@@ -1,12 +1,12 @@
-## Olá! Sou o João Gabriel Manhoni 🚀
+## Hello! I'm João Gabriel Manhoni 🚀
 
-### Sou Desenvolvedor Junior e estudante de Banco de Dados na Fatec Bauru
+### I'm a Junior Developer and a Database student at Fatec Bauru
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-gabriel-manhoni-2aa4a9259)
 
-### Tecnologias que uso dentro e fora da faculdade: 
+### Technologies I use inside and outside of college:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,py,cpp,php,mysql,postgres,html,neovim,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,py,cpp,php,mysql,postgres,html,neovim,)]
 
 <!--<div style = "display: inline_block" <br/>
   <img align = "center" alt="python" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
