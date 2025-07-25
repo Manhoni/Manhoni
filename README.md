@@ -2,7 +2,7 @@
 
 ### I'm a Junior Developer and a Database student at Fatec Bauru
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-gabriel-manhoni-2aa4a9259)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joao-gabriel-manhoni-2aa4a9259)
 
 ### Technologies I use inside and outside of college:
 
