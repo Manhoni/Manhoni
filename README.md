@@ -6,7 +6,6 @@
 
 ### Technologies I use inside and outside of college:
 
-<br/>
 ![My Skills](https://skillicons.dev/icons?i=cs,py,cpp,php,mysql,postgres,html,neovim,)
 
 <!--<div style = "display: inline_block" <br/>
