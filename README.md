@@ -6,6 +6,7 @@
 
 ### Technologies I use inside and outside of college:
 
+<br/>
 ![My Skills](https://skillicons.dev/icons?i=cs,py,cpp,php,mysql,postgres,html,neovim,)
 
 <!--<div style = "display: inline_block" <br/>
@@ -15,6 +16,7 @@
   <img align = "center" alt="html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align = "center" alt="php" src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div><br/><br/>-->
+<br/>
 
 ![Manhoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manhoni&show_icons=true&theme=onedark)
 
